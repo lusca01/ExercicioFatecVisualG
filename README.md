@@ -1,2 +1,2 @@
-# *__Lógicas Algoritmicas feitas__*
+# *__Lógicas Algoritmicas simples__*
  
