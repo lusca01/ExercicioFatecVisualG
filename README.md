@@ -1,2 +1,2 @@
-# *__ExercicioFatecVisualG__*
+# *__Lógicas Algoritmicas simples__*
  
